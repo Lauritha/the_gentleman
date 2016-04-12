@@ -160,3 +160,132 @@ article button{
 footer{
 	padding: 40px;
 }
+.iconos{
+	text-align: left;
+}
+footer .iconicons{
+	border-radius: 100px;
+	border: dashed white 1px;
+	padding: 5px;
+	font-size: 20px;
+	color: #9F9E9E;
+	display: inline-block;
+	text-align: center;
+	margin: 10px 0px;
+	width: 40px;
+}
+.texto-footer{
+	text-align: center;
+	color: #92ADC7;
+	font-family: serif;
+	font-size: 20px;
+	margin-bottom: 40px;
+}
+footer ul{
+	list-style-type: none; 
+	margin-left: 50px;
+	margin-bottom: 60px;
+}
+footer a{
+	color: #ffffff;
+	font-size: 14px;
+	font-family: serif;
+}
+footer a:hover{
+	color: #F60B42;
+}
+hr{
+	color: #898888;
+}
+footer h3{
+	color: #ffffff;
+	font-size: 16px;
+	font-family: serif;
+	margin: 30px 0px;
+}
+.f2{
+	background-color: #F60B42;
+	border-radius: 5px;
+	border: none;
+	color: #ffffff;
+	font-weight: 400;
+	padding: 5px;
+	font-size: 10px;
+	width: 50px;
+	font-family: serif;
+	margin-left: 20px;
+}
+.comentarios{
+	font-size: 12px;
+	color: #73B6DC;
+	font-family: serif;
+	margin-top: 20px;
+}
+.comillas{
+	color: #73B6DC;
+	text-transform: capitalize;
+	font-size: 20px;
+}
+.coments p{
+	font-size: 12px;
+	color: #ffffff;
+	font-family: 'Dosis';
+	margin-top: 10px;
+	width: 200px;
+	margin-bottom: 20px;
+}
+.arroba{
+	color: #F60B42;
+	font-size: 12px;
+}
+.twits p{
+	font-size: 12px;
+	color: #ffffff;
+	font-family: 'Dosis';
+	margin-top: 10px;
+	width: 200px;
+}
+.twits1{
+	color: #73B6DC;
+	font-size: 12px;
+}
+.address-map h4{
+	font-size: 14px;
+	color: #ffffff;
+	font-family: serif;
+}
+.address-map a{
+	color: #73B6DC;
+	font-size: 12px;
+	font-family: 'Dosis';
+}
+.number{
+	margin-top: 15px;
+	color: #F60B42;
+	font-family: serif;
+}
+.send input{
+	background-color: #222222;
+	color: #ffffff;
+	border: none;
+	padding: 10px;
+	font-family: serif;
+}
+.send h5{
+	color: #9F9F9F;
+	font-size: 10px;
+}
+.copy{
+	text-align: center;
+	font-size: 10px;
+	color: #ffffff;
+	margin-top: 20px;
+	font-family: 'Dosis';
+	font-weight: 400;
+}
+.copy a{
+	color: #F60B42;
+	font-family: 'Dosis';
+	font-size: 10px;
+	font-weight: 400;
+}
